@@ -1,4 +1,7 @@
 # Study of Tuples-in-Python
+## Name- Srushti J. Nalawade 
+## PRN- 25070123157 
+## Batch- A1
 ## Aim:
 To understand Python tuples and perform operations such as creation, indexing, slicing, and use of built-in functions.
 
